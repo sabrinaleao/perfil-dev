@@ -1,0 +1,4 @@
+Nome: Sabrina
+Curso: ADS
+Linguagem favorita: Python
+Objetivo Profissional: Analista de dados
